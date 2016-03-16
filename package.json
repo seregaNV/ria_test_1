@@ -1,0 +1,20 @@
+{
+  "name": "task_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seregaNV/ria_test_1/lesson2"
+  },
+  "keywords": [
+    "JS",
+    "server",
+    "nodeJS"
+  ],
+  "author": "Sergey Nagorniy <serega.n.v333@gmail.com>",
+  "license": "MIT"
+}
